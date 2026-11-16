@@ -4,6 +4,11 @@ An in-game weapon editor for **IW6x (Call of Duty: Ghosts)**. It's a single DLL 
 
 ![Janu's WeaponDef](docs/ui.png)
 
+### HorizonMW build
+
+![HMW saved setups](docs/hmw-saved.png)
+![HMW animations](docs/hmw-animations.png)
+
 ## Important
 
 Offline and private matches only. Don't use it on public servers.
