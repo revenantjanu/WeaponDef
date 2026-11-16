@@ -16,8 +16,8 @@ Offline and private matches only. Don't use it on public servers.
 ## What's in it
 
 - **WP** - weapon list with search, refresh, and add-asset
-- **AN** - animations
-- **SV** - saved presets
+- **AN** - animations. Applying one also covers the weapon's attachment versions
+- **SV** - saved presets, applied to the weapon and its attachment versions
 - **NB** - the embedded No Barriers module
 - **FX** - background effects for the window
 - **TH** - eight colour themes, saved between sessions
