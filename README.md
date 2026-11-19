@@ -41,4 +41,3 @@ Open an **x64 Native Tools Command Prompt for VS**, go to `src/`, and run `build
 - Made by **Janu**
 - UI and code written with **Claude** (Anthropic)
 - The embedded No Barriers module comes from a third-party tool and isn't my work. Credit to its original author.
-- Call of Duty: Ghosts and its artwork belong to Activision and Infinity Ward. This is an unofficial fan tool and isn't affiliated with them.
