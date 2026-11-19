@@ -41,3 +41,4 @@ Open an **x64 Native Tools Command Prompt for VS**, go to `src/`, and run `build
 - Made by **Janu**
 - UI and code written with **Claude** (Anthropic)
 - The embedded No Barriers module comes from a third-party tool and isn't my work. Credit to its original author.
+- Anyone who posted iw6 dumps
